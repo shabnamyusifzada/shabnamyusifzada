@@ -1,7 +1,7 @@
 # Shabnam Yusifzada
 
 Hi! My name is Shabnam Yusifzada . I'm Middle Full Stack Developer . I have 4 year experience working as
-part of a team and individually . I'm always energetic and eager to learn new skills and I'm a big lover of
+the part of a team and individually . I'm always energetic and eager to learn new skills and I'm a big lover of
 PHP and Laravel framework
 
 > Note  
@@ -18,6 +18,6 @@ Stacks
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js,jquery,react,html,css,bootstrap&theme=light)](https://skillicons.dev)
 
-Software &nbsp; Services
+Software & Services
 
-[![My Skills](https://skillicons.dev/icons?i=git,redis,cloudflare,figma,idea,firebase&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,redis,cloudflare,figma,idea,firebase,linux&theme=light)](https://skillicons.dev)
