@@ -1,11 +1,11 @@
 # Shabnam Yusifzada
 
-Hi! My name is Shabnam Yusifzada . I'm Middle Full Stack Developer . I have 4 year experience working as
-the part of a team and individually . I'm always energetic and eager to learn new skills and I'm a big lover of
+Hi! My name is Shabnam Yusifzada . I'm a Full Stack Developer . I have 4 year experience working as
+the part of a team and individually . I'm always energetic and eager to learn new skills and a big lover of
 PHP and Laravel framework
 
 > Note  
-> I'm currently learning React Native and Mobile Development !
+> I'm currently learning React Native and Mobile Development!
 
 Contact Me
 
