@@ -21,3 +21,7 @@ Stacks
 Software & Services
 
 [![My Skills](https://skillicons.dev/icons?i=git,postman,linux,docker,redis,rabbitmq,cloudflare,firebase,stackoverflow,figma,idea&theme=light)](https://skillicons.dev)
+
+# 📈 GitHub Stats
+
+[![Shabnam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shabnamyusifzada&count_private=true&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
