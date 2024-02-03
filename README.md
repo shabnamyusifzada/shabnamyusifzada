@@ -5,7 +5,7 @@ the part of a team and individually . I'm always energetic and eager to learn ne
 PHP and Laravel framework
 
 > Note  
-> I'm currently learning React Native and Mobile Development!
+> I'm currently learning Python and ML!
 
 Contact Me
 
